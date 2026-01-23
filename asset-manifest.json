@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/projeto-pacientes/static/css/main.ce6a4f39.css",
+    "main.js": "/projeto-pacientes/static/js/main.c9d7a090.js",
+    "index.html": "/projeto-pacientes/index.html",
+    "main.ce6a4f39.css.map": "/projeto-pacientes/static/css/main.ce6a4f39.css.map",
+    "main.c9d7a090.js.map": "/projeto-pacientes/static/js/main.c9d7a090.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce6a4f39.css",
+    "static/js/main.c9d7a090.js"
+  ]
+}
