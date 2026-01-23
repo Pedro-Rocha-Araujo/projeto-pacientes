@@ -1,7 +1,7 @@
 function Header() {
     return (
         <header>
-            <h1>App Pacientes</h1>
+            <h1>Pacientes</h1>
         </header>
     )
 }       
