@@ -1,9 +1,10 @@
 # O presente projeto foi feito utilizandos as seguintes tecnologias:
+
 - HTML
 - CSS
 - JavaScript
 - React
-- 
+
 A "Hospedagem" do projeto está disponível no link abaixo:
 Link: https://pedro-rocha-araujo.github.io/projeto-pacientes/
 
