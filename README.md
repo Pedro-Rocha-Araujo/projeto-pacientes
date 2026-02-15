@@ -1,8 +1,10 @@
-# Projeto de cadastro de Pacientes
-## O presente projeto foi desenvolvido em React com o intuito de aprender mais sobre as ferramentas utilizadas e compartilhar minhas habilidades.
+# Projeto de cadastro de Pacientes 💊
 
-## presente projeto foi feito utilizandos as seguintes tecnologias:
+## Tecnologias Utilizadas:
 * HTML | CSS
 * JavaScript | React
+* Git | GitHub
+
+## O presente projeto foi desenvolvido com o intuito de aprender mais sobre o framework React e compartilhar minhas habilidades.
 
 ### Segue o link para acesso: https://pedro-rocha-araujo.github.io/projeto-pacientes/
