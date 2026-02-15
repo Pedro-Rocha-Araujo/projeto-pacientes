@@ -16,7 +16,7 @@ function Tabela(props) {
                         <td>{_.nome}</td>
                         <td>{_.idade}</td>
                         <td>{_.telefone}</td>
-                        <td>
+                        <td className="opcoes">
                           <button className="btn-editar"
                             onClick={()=>props.onEdit(i)}>
                             Editar
